@@ -1,0 +1,3 @@
+module Muncher
+  VERSION = "0.0.2"
+end
